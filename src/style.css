@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'MyFont';
+    src: url('./qtzkklt.woff.ttf')  format('woff2');
+}
+.hello{
+    color: red;
+    font-family: 'MyFont';
+    font-size: 30px;
+    background: url('./google_logo.svg') no-repeat;
+}
